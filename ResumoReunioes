@@ -8,3 +8,17 @@ Primeira Reunião - 28/09:
 					Criação repositório inicial e criação do product backlog.
 					Revisão dos conceitos de Cloud e de Kubernetes.
 - Definição da adoção de uma metodologia agile com ciclos de desenvolvimento 2 em 2 semanas.
+
+
+Segunda Reunião - 14/10:
+- Revisão das tarefas efetuadas nas duas semanas anteriores (Sprint Review).
+- Decisão da ferramenta que irá ser utilizada para efetuar gestão do processo de desenvolvimento agile (Gitlab Issues/Board).
+- Definição do trabalho a ser efetuado nas duas semanas seguintes: Inicio do estudo aprofundado da literatura.
+- Discussão sobre possíveis serviços/tecnologias a vir a utilizar na arquitetura:
+										- Kubernetes
+										- Docker
+										- Managed services vs non-managed services
+										- Terraform
+										- Ansible
+										- Outras tecnologias
+										
