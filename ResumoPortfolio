@@ -1,0 +1,19 @@
+Diogo Carvalho NMec: 92969
+Nota: Este ficheiro contêm de forma resumida as atividades complementares a nível académico e profissional que foram realizadas. Este documento serve apenas de base para a criação de um portfolio final.
+
+1. Atividade: 
+Nome: [NEW] Ultimate AWS Certified Cloud Practitioner - 2022
+Data: Realizado nas semanas de 26/09 a 09/10
+URL: https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+Racional da seleção: O motivo que levou à realização deste curso online na plataform da Udemy foi a preparação para a obtenção da certificação "AWS Certified Cloud Practitioner" visto que, a obtenção desta certificação foi um dos objetivos iniciais traçados em conjunto com os meus orientadores. Este seria um bom ponto de partida para obtenção do conhecimento base neste mundo de cloud computing, para além de conhecimento mais especifico sobre a AWS, plataforma principal e que seria utilizada para efetuar o deploy da aplicação final.
+Pequeno resumo dos resultados: Realização deste curso permitiu-me obter uma boa base de conhecimentos para a realização da minha dissertação. O curso abordou uma vasta gama de conceitos, desde o que é computação cloud, tipos de computação cloud, vantagens da utilização cloud, overview sobre AWS cloud e o seu modelo de responsabilidades partilhada. Para além disso, os principais serviços fornecidos por esta plataforma foram discutidos e alvo de aprendizagem, destacando os serviços de IAM, EC2, ELB & ASG, S3, outras bases de dados (RDS, DynamoDB, Redshift, ...), outros tipos serviços computação (ECS, EKS, Fargate, ECR, Lambda, ...), serviços de deploy e gestão infraestruturas (CloudFormation, Beanstalk, CodeDeploy, CodeBuild, CodeCommit, ...), serviços associadas à rede (VPC, Subnet, PrivateLink, NACL, VPC Peering, ...), serviços de monitorização (CloudWatch, CloudTrail, ...), e de Machine Learning (Rekognition, Transcribe, Polly, Forecast, ...). Adicionalmente uma forte componente sobre segurança e gestão/faturação de conta foi fornecida. Este curso foi bem sucedido, e a melhor forma de avaliação do mesmo é a concretização da certificação que foi efetuada logo após a conclusão deste curso.
+
+
+2. Atividade: 
+Nome: Deti4Devs
+Data: 06/10 - 07/10
+URL: https://deti4devs.aettua.pt/
+Racional da seleção: O motivo que me levou à seleção deste evento para participação foi a possibilidade de estabelecimento de novos contactos e ainda a vasta gama de palestras em diferentes áreas que o mesmo disponibiliza. Posto isto, achei que seria uma mais valia a inscrição e participação neste tipo de atividades.
+Pequeno resumo dos resultados: Infelizmente, devido a motivos externos à realização da dissertação, só pude comparecer no evento no dia 06/10, o que foi um ponto negativo nesta experiência visto que a palestra que estava mais alinhada com os objetivos da minha dissertação seria a palestra "Cloud - Accenture" que foi realizada no dia 07. No entanto, a experiência revelou-se na mesma enriquecedora visto que para além do contacto e troca de experiências com outros colegas, assisti à palestra "Software Development #LikeABosch - Bosch". Esta palestra permitiu-me conhecer melhor a empresa Bosch e o trabalho que realização nas suas instalações aqui em Aveiro, visto que ainda não tinha qualquer contacto prévio com esta empresa. Para além disso, a palestra foi baseada na cultura, características e metodologias que uma equipa de desenvolvimento de software deve possuír para se transformar numa equipa de desenvolvimento de high performance.
+
+
