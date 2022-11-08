@@ -22,3 +22,9 @@ Segunda Reunião - 14/10:
 										- Ansible
 										- Outras tecnologias
 										
+										
+Terceira Reunião - 26/10:
+- Revisão das tarefas efetuadas nas duas semanas anteriores (Sprint Review).
+- Esclarecimento de dúvidas relativas ao modo de como a aplicação é suposto operar, isto é, de como é que a portabilidade entre cloud vai ser efetuada.
+- Orientação superficial relativamente a como irão ser garantidas as permissões necessárias para aplicação operar/gerir/criar na cloud do cliente.
+- Definição do trabalho a ser efetuado nas próximas duas semanas: Continuar o estado da literatura e a aprendizagem sobre Kubernetes

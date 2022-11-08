@@ -25,3 +25,20 @@ Semana 17/10 - 23/10:
 - Comecei a definir as principais keywords e bibliotecas online de pesquisa de artigos.
 - Efetuei uma pesquisa inicial para expandir o conjunto de keywords a procurar.
 - Concluí o curso "Getting Started with Kubernetes LiveLessons, 2nd Edition" na plataforma O'Reilly para solidificar os conceitos básicos de Kubernetes.
+- Revisão do Paper "Cloud apps to-go: Cloud portability with TOSCA and MiCADO" sobre o standard TOSCA e a plataforma MiCADO.
+- Revisão do Paper "Multi-faceted cloud portability with a TOSCA-based orchestrator" sobre o standard TOSCA e a plataforma TORCH.
+
+
+Semana 24/10 - 30/10:
+- Nao foi efetuado trabalho referente à Tese.
+
+
+Semana 31/10 - 06/11:
+- Iniciado estudo sobre a tecnologia Terraform através da visualização de cursos online na plataforma Youtube.
+- Iniciada a criação de script Terraform que permita efetuar a configuração básica a nível de network e security na plataforma AWS.
+- Estabelecimento das principais ideias e pontos relativos à arquitetura da aplicação.
+- Desenho do diagrama de arquitetura do sistema.
+
+
+Semana 07/11 - 13/11:
+- 
